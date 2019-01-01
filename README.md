@@ -3,4 +3,5 @@ Given a query related reminders, detect the custom message/phrase that user want
 
 Eg.
 Query: Please remind me to go to gym.
+
 Reminder phrase: “go to gym”
